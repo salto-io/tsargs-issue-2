@@ -1,0 +1,13 @@
+{
+  "name": "tsargs-bug",
+  "version": "1.0.0",
+  "main": "main.js",
+  "license": "MIT",
+  "scripts": {
+    "postinstall": "yarn tsc"
+  },
+  "devDependencies": {
+    "tsargs": "^1.4.0",
+    "typescript": "3.9.3"
+  }
+}
